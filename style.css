@@ -1,0 +1,36 @@
+body{
+    font-family: 'Signika Negative', sans-serif;
+    margin-block-end: 0;
+}
+.flexible-container{
+    display: flex;
+}
+.half1{
+    width: 50%;
+    margin-bottom: 100px;
+}
+.half1 img{
+    width: 100%;
+    margin-right:50px;
+    margin-top: 0%;
+    padding: 10px;
+}
+.half1 h1{
+    
+    font-size: 80px;
+}
+#hightlight{
+ color: #3636b6;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(#2e91bb, #ee3bee);
+    color:white;
+    font-weight: 800;
+    font-size: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border-radius:30px;
+}
